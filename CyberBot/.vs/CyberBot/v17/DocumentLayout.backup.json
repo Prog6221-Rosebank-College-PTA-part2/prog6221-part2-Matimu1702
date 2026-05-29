@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student\\source\\repos\\CyberBot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A05AB469-1D33-4DB9-B2F2-A25FDB088F02}|CyberBot\\CyberBot.csproj|c:\\users\\student\\source\\repos\\cyberbot\\cyberbot\\responsesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A05AB469-1D33-4DB9-B2F2-A25FDB088F02}|CyberBot\\CyberBot.csproj|solutionrelative:cyberbot\\responsesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A05AB469-1D33-4DB9-B2F2-A25FDB088F02}|CyberBot\\CyberBot.csproj|c:\\users\\student\\source\\repos\\cyberbot\\cyberbot\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A05AB469-1D33-4DB9-B2F2-A25FDB088F02}|CyberBot\\CyberBot.csproj|solutionrelative:cyberbot\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A05AB469-1D33-4DB9-B2F2-A25FDB088F02}|CyberBot\\CyberBot.csproj|c:\\users\\student\\source\\repos\\cyberbot\\cyberbot\\voicegreeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A05AB469-1D33-4DB9-B2F2-A25FDB088F02}|CyberBot\\CyberBot.csproj|solutionrelative:cyberbot\\voicegreeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A05AB469-1D33-4DB9-B2F2-A25FDB088F02}|CyberBot\\CyberBot.csproj|c:\\users\\student\\source\\repos\\cyberbot\\cyberbot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A05AB469-1D33-4DB9-B2F2-A25FDB088F02}|CyberBot\\CyberBot.csproj|solutionrelative:cyberbot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A05AB469-1D33-4DB9-B2F2-A25FDB088F02}|CyberBot\\CyberBot.csproj|c:\\users\\student\\source\\repos\\cyberbot\\cyberbot\\welcomescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A05AB469-1D33-4DB9-B2F2-A25FDB088F02}|CyberBot\\CyberBot.csproj|solutionrelative:cyberbot\\welcomescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A05AB469-1D33-4DB9-B2F2-A25FDB088F02}|CyberBot\\CyberBot.csproj|c:\\users\\student\\source\\repos\\cyberbot\\cyberbot\\typingeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A05AB469-1D33-4DB9-B2F2-A25FDB088F02}|CyberBot\\CyberBot.csproj|solutionrelative:cyberbot\\typingeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A05AB469-1D33-4DB9-B2F2-A25FDB088F02}|CyberBot\\CyberBot.csproj|c:\\users\\student\\source\\repos\\cyberbot\\cyberbot\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A05AB469-1D33-4DB9-B2F2-A25FDB088F02}|CyberBot\\CyberBot.csproj|solutionrelative:cyberbot\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A05AB469-1D33-4DB9-B2F2-A25FDB088F02}|CyberBot\\CyberBot.csproj|c:\\users\\student\\source\\repos\\cyberbot\\cyberbot\\chatbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A05AB469-1D33-4DB9-B2F2-A25FDB088F02}|CyberBot\\CyberBot.csproj|solutionrelative:cyberbot\\chatbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Chatbot.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\CyberBot\\CyberBot\\Chatbot.cs",
+              "RelativeDocumentMoniker": "CyberBot\\Chatbot.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\CyberBot\\CyberBot\\Chatbot.cs",
+              "RelativeToolTip": "CyberBot\\Chatbot.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwE4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T17:44:15.289Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ResponseSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\CyberBot\\CyberBot\\ResponseSystem.cs",
+              "RelativeDocumentMoniker": "CyberBot\\ResponseSystem.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\CyberBot\\CyberBot\\ResponseSystem.cs",
+              "RelativeToolTip": "CyberBot\\ResponseSystem.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T17:46:22.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\CyberBot\\CyberBot\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "CyberBot\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\CyberBot\\CyberBot\\MainWindow.xaml",
+              "RelativeToolTip": "CyberBot\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-27T17:29:51.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\CyberBot\\CyberBot\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CyberBot\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\CyberBot\\CyberBot\\MainWindow.xaml.cs",
+              "RelativeToolTip": "CyberBot\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T17:29:49.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TypingEffect.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\CyberBot\\CyberBot\\TypingEffect.cs",
+              "RelativeDocumentMoniker": "CyberBot\\TypingEffect.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\CyberBot\\CyberBot\\TypingEffect.cs",
+              "RelativeToolTip": "CyberBot\\TypingEffect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T17:47:49.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WelcomeScreen.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\CyberBot\\CyberBot\\WelcomeScreen.cs",
+              "RelativeDocumentMoniker": "CyberBot\\WelcomeScreen.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\CyberBot\\CyberBot\\WelcomeScreen.cs",
+              "RelativeToolTip": "CyberBot\\WelcomeScreen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T17:52:24.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\CyberBot\\CyberBot\\Program.cs",
+              "RelativeDocumentMoniker": "CyberBot\\Program.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\CyberBot\\CyberBot\\Program.cs",
+              "RelativeToolTip": "CyberBot\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T17:57:41.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VoiceGreeting.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\CyberBot\\CyberBot\\VoiceGreeting.cs",
+              "RelativeDocumentMoniker": "CyberBot\\VoiceGreeting.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\CyberBot\\CyberBot\\VoiceGreeting.cs",
+              "RelativeToolTip": "CyberBot\\VoiceGreeting.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T17:50:20.499Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
