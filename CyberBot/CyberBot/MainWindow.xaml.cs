@@ -35,10 +35,10 @@ namespace CyberBot
 
             AddMessage("You", userText);
 
-            if (waitingForName)   // ✅ handle name first
+            if (waitingForName)   //  handle name first
             {
                 bot.SetUserName(userText);
-                waitingForName = false;  // ✅ switch to conversation mode
+                waitingForName = false;  //  switch to conversation mode
             }
             else
             {
