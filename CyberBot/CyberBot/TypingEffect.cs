@@ -10,7 +10,7 @@ namespace CyberBot
     {
         public static async Task<string> Show(string message)
         {
-            await Task.Delay(500); // simulate typing delay
+            await Task.Delay(500); //  typing the delay
             return message;
         }
     }
